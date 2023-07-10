@@ -392,35 +392,43 @@
 .hot-deal-btn:hover {
     color: black;
 }
+
 /* instagram section */
-.instagram{
+.instagram {
     height: 100vh;
 }
-.insta-head{
-    color: #272727;
-text-align: center;
-font-family: Lato;
-font-size: 40px;
-font-style: normal;
-font-weight: 800;
-line-height: normal;
-margin-top: 128px;
-margin-bottom: 24px;
-}
-.insta-p{
-    color: rgba(39, 39, 39, 0.60);
-text-align: center;
-font-family: Lato;
-font-size: 18px;
-font-style: normal;
-font-weight: 400;
-line-height: 30px;
-}
-.insta-pics{
-   margin-top: 48px;
-   display: flex;
-   align-items: center;
-   justify-content: space-evenly;
 
-    
+.insta-head {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-top: 128px;
+    margin-bottom: 24px;
+}
+
+.insta-p {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.insta-pics {
+    margin-top: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+
+}
+
+.latest-deal{
+    background-image: url("./Flower\ Asset/.");
 }
