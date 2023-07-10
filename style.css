@@ -152,3 +152,43 @@
     text-decoration-line: underline;
     margin-top: 32px;
 }
+
+/* Order Section */
+.order-section {
+    width: 1440px;
+    height: 320px;
+    margin-top: 128px;
+    margin-left: 240px;
+    margin-right: 240x;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+
+
+
+}
+
+.order-heading {
+    padding-top: 30px;
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-family: Lato;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+}
+
+.order-menu {
+
+    color: black;
+    text-align: center;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+    
+    padding-top: 100px;
+    margin-left: 100px;
+
+}
