@@ -156,7 +156,7 @@
 /* Order Section */
 .order-section {
     width: 1440px;
-    height: 320px;
+    height: 500px;
     margin-top: 128px;
     margin-left: 240px;
     margin-right: 240x;
@@ -248,7 +248,8 @@
     line-height: 35px;
 
 }
-.name-order{
+
+.name-order {
     color: black;
     text-align: center;
     font-family: Lato;
@@ -256,9 +257,10 @@
     font-style: normal;
     font-weight: 600;
     line-height: 35px;
-    
+
 }
-.address-order{
+
+.address-order {
     color: black;
     text-align: center;
     font-family: Lato;
@@ -266,4 +268,75 @@
     font-style: normal;
     font-weight: 600;
     line-height: 35px;
+}
+
+.services {
+    display: flex;
+    justify-content: space-around;
+
+
+
+    margin-top: 50px;
+
+}
+
+.service-logo {
+    width: 88px;
+    height: 88px;
+    flex-shrink: 0;
+    margin-left: 150px;
+}
+.service-logo2{
+    width: 88px;
+    height: 88px;
+    margin-left: 120px;
+}
+
+.service-logo3 {
+    width: 88px;
+    height: 88px;
+    flex-shrink: 0;
+    margin-left: 50px;
+}
+
+
+
+.service-p1 {
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+    text-align: center;
+    margin-top: 10px;
+
+
+}
+
+.service-p2 {
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.service-p3 {
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+    text-align: center;
+    margin-top: 10px;
+
 }
