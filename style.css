@@ -51,3 +51,26 @@ margin-top: 52px;
 .btn-banner:hover{
     color: black;
 }
+/* Featured section */
+.featured-flower{
+    text-align: center;
+}
+.featured-title{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+margin-top: 178px;
+font-weight: 800;
+margin-bottom: 24px;
+
+}
+.featured-p{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
