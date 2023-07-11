@@ -434,7 +434,7 @@
     width: 1440px;
     height: 449px;
     margin-left: 240px;
-    
+
     margin-left: 240x;
     margin-bottom: 128px;
 }
@@ -461,10 +461,12 @@
     line-height: 30px;
     padding-top: 16px;
 }
-.sub-div{
-     display: flex;
-   
+
+.sub-div {
+    display: flex;
+
 }
+
 .enter-mail {
     width: 700px;
     height: 64px;
@@ -477,22 +479,64 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-     margin-left: 287px;
+    margin-left: 287px;
     margin-top: 48px;
-    margin-bottom: 121px; 
+    margin-bottom: 121px;
 }
-.subs{
+
+.subs {
     width: 150px;
-height: 64px;
-flex-shrink: 0;
-border-radius: 8px;
-background: #E55473;
-cursor: pointer;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #E55473;
+    cursor: pointer;
 }
-.sub-btn{
+
+.sub-btn {
     margin-top: 50px;
     margin-left: 16px;
 }
-.subs:hover{
+
+.subs:hover {
     color: white;
+}
+
+/* footer section */
+.footer {
+    width: 1922px;
+    height: 449px;
+    display: flex;
+    background: #111010;
+    justify-content: center;
+    align-items: center;
+}
+.footer-head{
+   color:  #FFFFFF;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-left: 155px;
+}
+.footer-p{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-top: 24px;
+margin-bottom: 32px;
+}
+.reserve{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
