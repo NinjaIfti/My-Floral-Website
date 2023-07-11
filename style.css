@@ -376,6 +376,7 @@
 
 .hot-deal-btn {
     align-items: center;
+    border: none;
     padding: 20px 43px;
     color: #FFF;
     font-family: Lato;
@@ -488,9 +489,16 @@
     width: 150px;
     height: 64px;
     flex-shrink: 0;
-    border-radius: 8px;
+   border: none;
+   border-radius: 8px;
     background: #E55473;
     cursor: pointer;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
 }
 
 .sub-btn {
@@ -499,7 +507,7 @@
 }
 
 .subs:hover {
-    color: white;
+    color: black;
 }
 
 /* footer section */
@@ -511,32 +519,35 @@
     justify-content: center;
     align-items: center;
 }
-.footer-head{
-   color:  #FFFFFF;
-font-family: Lato;
-font-size: 48px;
-font-style: normal;
-font-weight: 800;
-line-height: normal;
-margin-left: 155px;
+
+.footer-head {
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-left: 155px;
 }
-.footer-p{
+
+.footer-p {
     color: rgba(255, 255, 255, 0.90);
-text-align: center;
-font-family: Lato;
-font-size: 18px;
-font-style: normal;
-font-weight: 400;
-line-height: 30px;
-margin-top: 24px;
-margin-bottom: 32px;
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 24px;
+    margin-bottom: 32px;
 }
-.reserve{
+
+.reserve {
     color: rgba(255, 255, 255, 0.40);
-text-align: center;
-font-family: Lato;
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
